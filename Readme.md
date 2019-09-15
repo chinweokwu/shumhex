@@ -1,0 +1,3 @@
+## Sum Hex
+
+Sum hex is a fucion that takes in a string of hexadecimal and .....

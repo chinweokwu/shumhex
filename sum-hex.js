@@ -12,7 +12,7 @@ function highestSum(Y, N) {
     f: 15
   }
   let counter = 0;
-  let maxSum = 0;
+  let maxSum = 0; 
   let currentSum = 0;
   Y.toLowerCase().split('').forEach(function(el) {
     const numOrString = isNaN(Number(el)) ? obj[el] : Number(el);
